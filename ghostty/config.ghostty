@@ -1,0 +1,5 @@
+window-decoration=false
+theme = noctalia
+font-size = 10
+background-opacity = 0.4
+custom-shader = shaders/perfection.glsl

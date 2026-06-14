@@ -1,0 +1,87 @@
+{
+  "enableTodoIntegration": false,
+  "pincardsEnabled": false,
+  "notecardsEnabled": true,
+  "showCloseButton": false,
+  "fullscreenMode": false,
+  "hidePanelBackground": false,
+  "autoPaste": false,
+  "autoPasteOnRightClick": false,
+  "autoPasteDelay": 300,
+  "panelWidth": 1000,
+  "panelHeight": 900,
+  "cardColors": {
+    "Text": {
+      "bg": "mOutline",
+      "separator": "mSurface",
+      "fg": "mOnSurface"
+    },
+    "Image": {
+      "bg": "mTertiary",
+      "separator": "mSurface",
+      "fg": "mOnTertiary"
+    },
+    "Link": {
+      "bg": "mPrimary",
+      "separator": "mSurface",
+      "fg": "mOnPrimary"
+    },
+    "Code": {
+      "bg": "mSecondary",
+      "separator": "mSurface",
+      "fg": "mOnSecondary"
+    },
+    "Color": {
+      "bg": "mSecondary",
+      "separator": "mSurface",
+      "fg": "mOnSecondary"
+    },
+    "Emoji": {
+      "bg": "mHover",
+      "separator": "mSurface",
+      "fg": "mOnHover"
+    },
+    "File": {
+      "bg": "mError",
+      "separator": "mSurface",
+      "fg": "mOnError"
+    }
+  },
+  "customColors": {
+    "Text": {
+      "bg": "#555555",
+      "separator": "#000000",
+      "fg": "#e9e4f0"
+    },
+    "Image": {
+      "bg": "#e0b7c9",
+      "separator": "#000000",
+      "fg": "#20161f"
+    },
+    "Link": {
+      "bg": "#c7a1d8",
+      "separator": "#000000",
+      "fg": "#1a151f"
+    },
+    "Code": {
+      "bg": "#a984c4",
+      "separator": "#000000",
+      "fg": "#f3edf7"
+    },
+    "Color": {
+      "bg": "#a984c4",
+      "separator": "#000000",
+      "fg": "#f3edf7"
+    },
+    "Emoji": {
+      "bg": "#e0b7c9",
+      "separator": "#000000",
+      "fg": "#20161f"
+    },
+    "File": {
+      "bg": "#e9899d",
+      "separator": "#000000",
+      "fg": "#1e1418"
+    }
+  }
+}

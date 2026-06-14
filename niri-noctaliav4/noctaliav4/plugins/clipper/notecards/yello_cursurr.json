@@ -1,0 +1,14 @@
+{
+  "id": "note_1779876025684_n8taft",
+  "title": "yello cursurr",
+  "isPrivate": false,
+  "content": "const vec4 TRAIL_COLOR = vec4(1.0, 0.725, 0.161, 1.0);\nconst vec4 TRAIL_COLOR_ACCENT = vec4(1.0, 0., 0., 1.0);",
+  "x": 20,
+  "y": 80,
+  "width": 350,
+  "height": 280,
+  "zIndex": 1,
+  "color": "green",
+  "createdAt": "2026-05-27T10:00:25.684Z",
+  "lastModified": "2026-05-27T11:47:15.777Z"
+}

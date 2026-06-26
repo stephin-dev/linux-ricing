@@ -1,6 +1,6 @@
 {
   "logo": {
-    "type": "kitty",
+    "type": "kitty-direct",
     "source": "~/.config/fastfetch/1.png",
     "padding": {
       "top": 1,
